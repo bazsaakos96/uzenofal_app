@@ -13,3 +13,9 @@ Hogy tudok adatbázis táblát létrehozni a supabase-ben,van esetleg olyan dolo
 
 Nem találom a RLS Disable-d,leírnád pontosan,hol találom?
 
+Az ANON Key,megegyezik az API Key-el?
+
+Egészítsd ki a programot az adatbázissal.
+
+ Az üzenetek legyenek fordított  sorrendben listázva, a legrégebbi legyen elöl.
+ Hogyan kell deployolni vercelben?
